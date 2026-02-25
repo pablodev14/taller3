@@ -35,7 +35,7 @@
 
 ## ⦗🗣⦘ Exposición:
 
->Explicación del proceso de realización del taller3
+>Explicación del proceso de realización del taller3, sustentando el como hicimos el programa y tambien mostrando las diapositivas explicando que es una variables y sus tipos, mostrando los diferentes tipos de operadores y como se hace para cambiar el nombre en git.
 
 ## ⦗🪪⦘ Créditos:
 
