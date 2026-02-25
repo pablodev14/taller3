@@ -22,6 +22,7 @@
 ## ⦗🧑🏼‍💻⦘ Programa:
 
 >El programa de java cuenta con 20 variables de diferente tipo iniciadas con datos compatibles con cada una, también reasigna los valores de varias variables y tiene un poco de hardcode.
+
 >El programa esta en github.
 
 ## [📍]Como renombrar commits:
