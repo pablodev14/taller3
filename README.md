@@ -17,7 +17,7 @@
 
 ## ⦗🖥⦘ Diapositivas:
 
->Documentación del proceso del taller3 mostrando paso a paso el como se realizo el programa.
+>Documentación del proceso del taller3 mostrando paso a paso el como se realizo el programa, tambien tiene la explicacion sobre que es una variables y su tipos, tambien cuanta con los diferentes tipos de operadores y una explicacion sobre como cambiar el nombre en git.
 
 ## ⦗🧑🏼‍💻⦘ Programa:
 
