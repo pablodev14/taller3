@@ -13,7 +13,7 @@
 
 ## ⦗📁⦘ Repositorio:
 
->En este repositorio estan las diapositivas que explican que es una variable y sus tipos, los diferentes tipos de operadores, capturas del programa.
+>En este repositorio estan las diapositivas que explican que es una variable y sus tipos, los diferentes tipos de operadores, capturas del programa sobre declaraciones, reasignaciones de valores y hardcode.
 
 ## ⦗🖥⦘ Diapositivas:
 
