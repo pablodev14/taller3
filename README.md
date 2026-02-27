@@ -6,7 +6,7 @@
 ## ⦗📑⦘ Contenido:
 
 - Repositorio.
-- Diapositivas
+- Diapositivas.
 - Programa.
 - como renombrar commits
 - Exposición.
