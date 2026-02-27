@@ -48,6 +48,9 @@
 ## ⦗🪪⦘ Créditos:
 
 >  - Juan Pablo Velez Lopera
+
 >  - Emanuel Tamayo Florez
+
 >  - Jeronimo Toro Rodriguez
+
 >  - Esteban Presiga Posada
