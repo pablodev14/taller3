@@ -23,6 +23,8 @@
 
 >Documentación del proceso del taller3 mostrando paso a paso el como se realizo el programa, también tiene la explicación sobre que es una variables y su tipos, también cuanta con los diferentes tipos de operadores y una explicación sobre como cambiar el nombre en git.
 
+> Enlace: [Diapositivas](https://www.canva.com/design/DAHB3ZCeGrk/Ymkj8bxFQIFX0ExJrzYx5g/edit?utm_content=DAHB3ZCeGrk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 ## ⦗🧑🏼‍💻⦘ Programa:
 
@@ -52,5 +54,3 @@
 >  - Emanuel Tamayo Florez
 
 >  - Jeronimo Toro Rodriguez
-
->  - Esteban Presiga Posada
