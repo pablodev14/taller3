@@ -43,7 +43,7 @@
 >- Comando: git commit --amend --reset-author
 
 
-##[🌐]Programa de las ecuaciones
+## ⦗🌐⦘ Programa de las ecuaciones:
 
 >Se evidencia el codigo con un if el cual permite escoger entre 3 opciones, opcion 1 para la ecuacion 1, la opcion 2 para escoger la ecuacion 2, y la opcion 3 para salir del sistema, adicionalmente , se incluye la opcion de que si el usuario ingresa una ocpion no valida, el sistema devuelva un mensaje indicando que la entrada que ingreso el usuario no es valida y que debe volver a intentarlo
 
